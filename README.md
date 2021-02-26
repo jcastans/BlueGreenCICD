@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar sample web application
+Welcome to the AWS Web app example for AWSome Builder
 ==================================================
 
 This sample code helps get you started with a simple Node.js web application
